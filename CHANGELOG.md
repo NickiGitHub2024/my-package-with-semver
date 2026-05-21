@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-21)
+
+### Bug Fixes
+
+- Correct a minor bug
+  ([`3a8824f`](https://github.com/NickiGitHub2024/my-package-with-semver/commit/3a8824f042189baaf3fdb0b305103b8c21f80c70))
+
+
 ## v2.0.0 (2026-05-21)
 
 ### Features
