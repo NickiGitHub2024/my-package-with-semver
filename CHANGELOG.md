@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-21)
+
+### Features
+
+- Introduce a breaking change
+  ([`2e3b757`](https://github.com/NickiGitHub2024/my-package-with-semver/commit/2e3b757ae4399247f33bf0e6a92c624be0ad8122))
+
+
 ## v1.1.0 (2026-05-21)
 
 ### Bug Fixes
